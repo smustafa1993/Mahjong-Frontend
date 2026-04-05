@@ -87,3 +87,4 @@ To build a premium, full-scale gaming experience within the required timeframe, 
 - **Visual Design & CSS Overhaul (`index.css`)**: AI was heavily utilized to design the premium styling and aesthetic theme. The complex CSS gradient rules, the Jade Green/Charcoal casino palette, and the repetitive DOM structure to build the "Glassmorphism" UI were entirely AI generated.
 - **Routing & Boilerplate (`gameRoutes.js` / `authRoutes.js`)**: Tedious, repetitive structural tasks like creating Express router paths, wiring up generic controller catches, and configuring standard HTTP compliance were accelerated using AI generation. 
 - **HTML DOM Structuring**: The rote construction of HTML mapping and grid/flexbox layouts across the various React component files.
+- **Code Comments**: Code has been run through AI to fix the existing comments and add more for clarity and code understanding.
